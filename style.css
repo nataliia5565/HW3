@@ -1,14 +1,27 @@
-h3 {color: gray}
+h3 {color:#0000004D }
 .flex-container {
     display: flex;
     flex-direction: row;
 
 }
-#brandcolor{margin: 10px}
-#Primary70 {color:white ; background-color:cadetblue}
-#Secondary {color: black; background-color: yellow}
-.blocks {margin: 10px; width: 150px; height: 40px; border-radius: 10px}
-#Primary40 {color: white;background-color: burlywood }
-#Primary60 {color: white; background-color: coral }
-#Primary80 {color: white; background-color: crimson}
-#Primary100 {color: white; background-color: brown}
+#brandcolor{width: 219px; height:  46px}
+#Primary70 {color:#FFFFFF; background-color:#3DCBB1; width: 625px}
+#Secondary {color: #000000; background-color: #FFD130; width: 320px}
+.blocks1 {margin: 10px;height: 183px; border-radius: 12px}
+.blocks2 {width: 360px; height: 183px; border-radius: 12px; margin: 10px}
+#Primary40 {color:#FFFFFF ;background-color: #EC9792 }
+#Primary60 {color: #FFFFFF; background-color: #E56D67 }
+#Primary80 {color:#FFFFFF ; background-color:#C42A22 }
+#Primary100 {color:#FFFFFF; background-color:#98211A }
+.blocks3 {margin: 10px; width: 360px; height: 188px; border-radius: 12px}
+#Black90 {color:#FFFFFF; background-color: #1B1B1BE5 }
+#Black60 {color: #FFFFFF; background-color: #1B1B1B99}
+#Black30 {color: #FFFFFF; background-color: #1B1B1B1A}
+#White90 {color:#000000; background-color: #F9F9F9E5 }
+#White60 {color: black; background-color: #F9F9F999}
+#White30 {color: black; background-color: #F9F9F94D}
+.blocks4 {margin: 10px;width: 360px; height: 188.23px; border-radius: 12px}
+#Error {color: #FFFFFF; background-color:#FE416D }
+#Warning {color: black; background-color:#A04AE3 }
+#Sucsess {color: black; background-color: #00DDC0}
+
