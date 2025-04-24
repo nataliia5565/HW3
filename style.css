@@ -1,0 +1,14 @@
+h3 {color: gray}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+
+}
+#brandcolor{margin: 10px}
+#Primary70 {color:white ; background-color:cadetblue}
+#Secondary {color: black; background-color: yellow}
+.blocks {margin: 10px; width: 150px; height: 40px; border-radius: 10px}
+#Primary40 {color: white;background-color: burlywood }
+#Primary60 {color: white; background-color: coral }
+#Primary80 {color: white; background-color: crimson}
+#Primary100 {color: white; background-color: brown}
